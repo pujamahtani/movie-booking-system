@@ -25,3 +25,35 @@ Functionalities of the project :
 
 ⦁	All the details properly managed by admin 
 
+SCREENSHOT OF USER INTERFACE
+
+USER SIDE
+
+1.Home page
+
+<img src="screenshots/home.PNG">
+
+2.Select Movie
+
+<img src="screenshots/select_movie.PNG">
+
+3.Watch Trailer
+
+<img src="screenshots/trailer.PNG">
+
+4.Select Seats
+
+<img src="screenshots/seats.PNG">
+
+ADMIN SIDE
+
+5.Add Movies
+
+<img src="screenshots/add_movie.PNG">
+
+6.Show already existing Movies 
+
+<img src="screenshots/show_movie.PNG">
+
+Note: These are screenshots of some important functions.
+
